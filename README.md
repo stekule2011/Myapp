@@ -1,2 +1,0 @@
-# Myapp
-MVC project
