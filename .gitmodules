@@ -1,0 +1,3 @@
+[submodule "WebApplication/SubModules"]
+	path = WebApplication/SubModules
+	url = https://github.com/stekule2011/sub_repo.git
